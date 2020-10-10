@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525046174 source:c:\users\nick petho\onedrive\documents\ysu semesters\spring 2018\artificial intelligence in game design\final game project\ai final project\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
+1525104142 source:c:\users\nicky\onedrive\documents\ysu semesters\spring 2018\artificial intelligence in game design\final game project\ai final project\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+
